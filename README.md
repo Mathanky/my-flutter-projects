@@ -1,16 +1,53 @@
-# combined_app
+# Combined Flutter App
 
-A new Flutter project.
+This is a combined Flutter application that includes five mini-projects:
 
-## Getting Started
+- **Login UI with Validation**
+- **Simple To-Do List App**
+- **BMI Calculator**
+- **Counter App**
+- **Contacts Manager App**
 
-This project is a starting point for a Flutter application.
+## Features
+- Navigate between different app sections from the Home screen.
+- Each section works independently with its own functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Ensure Flutter is installed on your system.
+2. Clone this repository:
+git clone https://github.com/yourusername/my-flutter-projects.git
+text
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Collapse
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Wrap
+
+Copy
+3. Navigate to the project folder:
+cd combined_app
+text
+
+Collapse
+
+Wrap
+
+Copy
+4. Run the app using Flutter:
+flutter run -d edge
+text
+
+Collapse
+
+Wrap
+
+Copy
+## Project Structure
+- `lib/main.dart`: Contains all the code for the combined app with multiple screens.
+
+## Author
+- Created by [Your Name]
+
+## License
+- This project is open-source (add your license if applicable, e.g., MIT).
+Replace yourusername with your GitHub username and [Your Name] with your name.
+Save the file (Ctrl + S).
